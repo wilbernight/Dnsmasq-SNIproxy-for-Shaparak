@@ -6,7 +6,7 @@
 
 * Purpose: bypass shaparak and psp ip limitation (Just install it on a Iran vps and use that ip as dns resolver of main server with nano /etc/resolv.conf)
 
-* Feature: The script unlocks `Shaparak bpm` [etc.] by default (https://github.com/wilbernight/Dnsmasq-SNIproxy-for-Shaparak/blob/master/proxy-domains.txt), if you need to add or delete url or media domain names, please edit the file `/etc/sniproxy.conf and `/etc/dnsmasq.d/custom_borders.conf`
+* Feature: The script unlocks `Shaparak bpm` [etc.] by default (https://github.com/wilbernight/Dnsmasq-SNIproxy-for-Shaparak/blob/master/proxy-domains.txt), if you need to add or delete url or media domain names, please edit the file `/etc/sniproxy.conf` and `/etc/dnsmasq.d/custom_borders.conf`
 
 * Script support system: CentOS6+, Debian9+, Ubuntu16+
     * CentOS6/7/8, Debian9/10/11+, Ubuntu16/18/22+ have been tested successfully
