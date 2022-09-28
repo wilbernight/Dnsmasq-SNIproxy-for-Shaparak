@@ -1,4 +1,4 @@
-# Dnsmasq-SNIproxy-for-Shaparak with another Iranian VPS
+# Dnsmasq-SNIproxy-for-Shaparak with an Iranian VPS
 
 ### Script description:
 
