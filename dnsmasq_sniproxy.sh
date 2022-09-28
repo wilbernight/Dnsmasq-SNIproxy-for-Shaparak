@@ -297,7 +297,7 @@ install_sniproxy(){
         if [ -e sniproxy ]; then
             rm -rf sniproxy
         fi
-        git clone https://github.com/dlundquist/sniproxy.git
+        git clone https://github.com/wilbernight/sniproxy.git
         cd sniproxy
     fi
     if check_sys packageManager yum; then
